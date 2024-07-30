@@ -2,7 +2,7 @@ const CommentContainer = () => {
 
   const commentData = [
     {
-      name: 'Guru kiran 2',
+      name: 'Shreyas',
       comment: 'refdsf fsdf sfs fds fsdfsfsdf',
       replies: [
         {
@@ -25,7 +25,7 @@ const CommentContainer = () => {
       ]
     },
     {
-      name: 'Guru kiran 1',
+      name: 'Ravindra',
       comment: 'refdsf fsdf sfs fds fsdfsfsdf',
       replies: [
         {
@@ -47,22 +47,22 @@ const CommentContainer = () => {
       ]
     },
     {
-      name: 'Guru kiran 3',
+      name: 'Sameer',
       comment: 'refdsf fsdf sfs fds fsdfsfsdf',
       replies: []
     },
     {
-      name: 'Guru kiran 4',
+      name: 'Rayan Gazi',
       comment: 'refdsf fsdf sfs fds fsdfsfsdf',
       replies: []
     },
     {
-      name: 'Guru kiran 5',
+      name: 'Rexon',
       comment: 'refdsf fsdf sfs fds fsdfsfsdf',
       replies: []
     },
     {
-      name: 'Guru kiran 6',
+      name: 'Pulse',
       comment: 'refdsf fsdf sfs fds fsdfsfsdf',
       replies: []
     }
